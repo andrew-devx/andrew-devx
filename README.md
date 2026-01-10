@@ -1,7 +1,5 @@
 # Hi there, I'm Charles Andrew! 👋
 
-# Hi there, I'm Charles Andrew! 👋
-
 I am a student and an aspiring **Full Stack Web Developer** from the Philippines. My goal is to bridge the gap between robust backend logic and beautiful frontend design.
 
 ---
