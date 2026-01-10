@@ -1,30 +1,31 @@
 # Hi there, I'm Charles Andrew! 👋
 
-I'm a student and aspiring **Full Stack Web Developer** based in the Philippines. I love building web applications, diving into hardware, and game development.
-
-- 🔭 **I’m currently working on:** - **Pinans**: A budgeting web application built with PHP and SQL.
-  - My personal brand website using **Framer** and **Figma**.
-
-- 🌱 **I’m currently learning:** - Advanced **JavaScript** (ES6+ & Recursion).
-  - **SQL** optimization (Triggers, Group By).
-  - Hardware Engineering concepts with **Verilog**.
-
-- 🎮 **Side Quests:**
-  - Developing games in the **Godot Engine**.
-  - PC Building & Hardware Troubleshooting.
-
-### 🛠️ Languages and Tools
-
-| **Frontend & Design** | **Backend & Database** | **Other Interests** |
-| :--- | :--- | :--- |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine) |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma) | ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql) | 🖥️ PC Hardware |
-| ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer) |  | 🏀 NBA / Dota 2 Fan |
+I am a student and an aspiring **Full Stack Web Developer** from the Philippines. My goal is to bridge the gap between robust backend logic and beautiful frontend design.
 
 ---
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+## 🗺️ My Tech Stack Path
+*My current learning journey and roadmap.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURGITHUBUSERNAME&color=blue)
+**📍 Phase 1: The Foundation (Completed)**
+> `HTML5` • `CSS3` • `Basic SQL` • `Figma Basics`
+
+**📍 Phase 2: The Logic & Backend (CURRENT FOCUS ⚡)**
+> I am currently deep-diving into the logic that powers web applications.
+> * **JavaScript (ES6+):** Mastering functional programming, destructuring, and recursion.
+> * **PHP:** Building dynamic web applications (currently building **Pinans**, a budgeting app).
+> * **Advanced SQL:** Writing complex queries using Triggers, GROUP BY, and HAVING clauses.
+
+**📍 Phase 3: The Polish (Next Steps)**
+> `Modern Frameworks` • `Advanced UI Animation (Framer)`
+
+---
+
+## 💻 The Full Stack Arsenal
+*Tools I use to build the web.*
+
+| **🎨 Frontend & Design** | **⚙️ Backend & Database** |
+| :--- | :--- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> *Focus: DOM & Recursion* | ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white) <br> *Focus: App Logic* |
+| ![Figma](https://img.shields.io/badge/Figma-Prototyping-F24E1E?style=for-the-badge&logo=figma&logoColor=white) <br> *Focus: UI Systems* | ![SQL](https://img.shields.io/badge/SQL-Data-003B57?style=for-the-badge&logo=postgresql&logoColor=white) <br> *Focus: Data Integrity* |
+| ![Framer](https://img.shields.io/badge/Framer-No_Code-0055FF?style=for-the-badge&logo=framer&logoColor=white) <br> *Focus: Interaction Design* | ![MySQL](
