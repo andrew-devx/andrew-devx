@@ -1,7 +1,7 @@
 # Hi, I'm Charles Andrew 🇵🇭 👋 
-### Full Stack Web Developer | UI/UX Enthusiast
+### Full Stack Developer 
 
-I am a developer focused on bridging the gap between robust backend logic and intuitive frontend design. With a professional background in conversion-focused landing page architecture and a deep dive into complex database systems, I build applications that are as functional as they are performant.
+I build full-stack applications that turn complex data into usable tools. From automating network infrastructure with Node.js to architecting financial logic in MySQL, I’m driven by the challenge of making backend systems invisible and efficient. I don't just build websites; I build workflows.
 
 ---
 
