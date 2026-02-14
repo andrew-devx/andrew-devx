@@ -1,7 +1,7 @@
 # Hi, I'm Charles Andrew 🇵🇭 👋 
-### Full Stack Developer 
+### Full Stack Web Developer | System Logic & Automation
 
-I build full-stack applications that turn complex data into usable tools. From automating network infrastructure with Node.js to architecting financial logic in MySQL, I’m driven by the challenge of making backend systems invisible and efficient. I don't just build websites; I build workflows.
+I build full-stack applications that turn complex data into usable tools. From automating network infrastructure with **Node.js** to architecting financial logic in **MySQL**, I’m driven by the challenge of making backend systems invisible and efficient. I don't just build websites; I build workflows.
 
 ---
 
@@ -22,37 +22,35 @@ I build full-stack applications that turn complex data into usable tools. From a
 *A comprehensive budgeting solution transitioning from PHP to a modern React & Node.js architecture.*
 * **Tech:** React, Node.js, MySQL, Tailwind CSS, Gemini API.
 * **Engineering Focus:** * **State-Driven UI:** Using React Hooks for real-time budget tracking and seamless expense entry without page reloads.
-  * **Relational Integrity:** Architected a MySQL schema with strict Foreign Key constraints and Transactions to ensure data accuracy across multi-user environments.
-  * **AI Integration:** Developed a Node.js middleware for **WaisBot**, leveraging the Gemini API to analyze spending patterns and provide automated financial coaching based on historical data.
+  * **Relational Integrity:** Architected a MySQL schema with strict Foreign Key constraints to ensure 100% data accuracy across user accounts.
+  * **AI Integration:** Developed Node.js middleware for **WaisBot**, leveraging the Gemini API to analyze spending patterns and generate automated financial coaching.
 
 ### **NetGate — Network Automation Tool**
 *A specialized solution for automating WiFi voucher generation for local business infrastructure.*
 * **Tech:** Node.js, PHP, MikroTik API, SQL.
-* **Problem Solved:** Streamlined network administration by automating credential generation and monitoring through a custom web-based dashboard, reducing manual overhead by 90%.
-
-### **RetroBooth — Interactive Web Experience**
-*A digital photobooth web application focusing on high-performance DOM manipulation and responsive design.*
-* **Tech:** React, JavaScript (ES6+), Tailwind CSS.
-* **Focus:** Seamless user interaction management using React's component-based architecture and optimized rendering for a smooth, app-like feel.
+* **Problem Solved:** Reduced manual overhead by 90% by automating credential generation and monitoring through a custom web-based dashboard.
 
 ---
 
 ## 💼 Professional Experience
-* **Landing Page & Funnel Builder (6 Months):** Engineered high-conversion sales funnels, optimized user flows, and implemented mobile-first responsive design principles for diverse client needs.
-* **Full Stack Development:** Currently evolving a legacy PHP/SQL foundation into a modern **MERN** (MongoDB, Express, React, Node) ecosystem to support high-concurrency, real-time applications.
-
----
-
-## 🕹️ Logic Exploration
-When I'm not optimizing queries, I explore **Godot 4 (GDScript)** to sharpen my understanding of object-oriented programming (OOP), physics-based logic, and signal management. This creative environment reinforces the clean-code principles I apply to enterprise web projects.
+* **Landing Page & Funnel Builder (6 Months):** Engineered high-conversion sales funnels, focusing on performance optimization and mobile-first responsive design.
+* **Full Stack Development:** Currently evolving a legacy PHP/SQL foundation into a modern **Node/React** ecosystem to support high-concurrency, real-time applications.
 
 ---
 
 ## 📫 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/charles-andrew](#)
-* 🌐 **Portfolio:** [charlesandrew.dev](#)
-* 📧 **Email:** [charles.andrew@email.com](mailto:your-email@example.com)
+
+| | |
+| :--- | :--- |
+| 🌐 **Portfolio** | [andrew-devx.vercel.app](https://andrew-devx.vercel.app/) |
+| 💼 **LinkedIn** | [charles-andrew-taripe](https://www.linkedin.com/in/charles-andrew-taripe-64ab8937a/) |
+| 📧 **Email** | [charlesandrewtaripe@gmail.com](mailto:charlesandrewtaripe@gmail.com) |
+| 📱 **Phone** | [+63 992 403 8118](tel:+639924038118) |
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charles-andrew-taripe-64ab8937a/) 
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:charlesandrewtaripe@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://andrew-devx.vercel.app/)
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/charles-andrew-taripe-64ab8937a/)) 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:charlesandrewtaripe@gmail.com)
