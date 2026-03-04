@@ -1,18 +1,20 @@
-<h1 align="center">Hi, I'm Charles Andrew 🇵🇭 👋</h1>
-<h3 align="center">Conversion-Focused Full Stack Developer | eCommerce Funnels & Automation Systems</h3>
+<h1>Hi, I'm Charles Andrew 🇵🇭 👋</h1>
+<h3>Conversion-Focused Full Stack Developer | eCommerce Funnels & Automation Systems</h3>
 
-<p align="center">
+<p>
 I don’t just build websites — I build <strong>revenue systems</strong>.
 </p>
 
-<p align="center">
-I help eCommerce brands and online businesses turn traffic into paying customers through
-<br><br>
-⚡ High-converting landing pages <br>
-🔄 Sales funnels (Lead → Nurture → Close) <br>
-🤖 CRM & workflow automation <br>
-🚀 Performance-optimized full stack systems
+<p>
+I help eCommerce brands and online businesses turn traffic into paying customers through:
 </p>
+
+<ul>
+  <li>⚡ High-converting landing pages</li>
+  <li>🔄 Sales funnels (Lead → Nurture → Close)</li>
+  <li>🤖 CRM & workflow automation</li>
+  <li>🚀 Performance-optimized full stack systems</li>
+</ul>
 
 <hr>
 
@@ -62,9 +64,7 @@ I help eCommerce brands and online businesses turn traffic into paying customers
 <h2>🚀 Featured Projects</h2>
 
 <h3>💸 PesoWais — Financial Intelligence App</h3>
-<p>
-Full stack budgeting system built with React & Node.js.
-</p>
+<p>Full stack budgeting system built with React & Node.js.</p>
 
 <ul>
   <li>State-driven UI for real-time tracking</li>
@@ -74,9 +74,7 @@ Full stack budgeting system built with React & Node.js.
 </ul>
 
 <h3>🌐 NetGate — Network Automation Dashboard</h3>
-<p>
-Automated WiFi voucher generation system.
-</p>
+<p>Automated WiFi voucher generation system.</p>
 
 <ul>
   <li>Reduced manual workload by 90%</li>
@@ -131,6 +129,6 @@ Your landing page shouldn’t just look good — it should <strong>increase reve
 
 <hr>
 
-<p align="center">
+<p>
 <strong>🚀 Open to remote eCommerce & funnel development opportunities.</strong>
 </p>
