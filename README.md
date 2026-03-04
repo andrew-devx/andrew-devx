@@ -1,56 +1,136 @@
-# Hi, I'm Charles Andrew 🇵🇭 👋 
-### Full Stack Web Developer | System Logic & Automation
+<h1 align="center">Hi, I'm Charles Andrew 🇵🇭 👋</h1>
+<h3 align="center">Conversion-Focused Full Stack Developer | eCommerce Funnels & Automation Systems</h3>
 
-I build full-stack applications that turn complex data into usable tools. From automating network infrastructure with **Node.js** to architecting financial logic in **MySQL**, I’m driven by the challenge of making backend systems invisible and efficient. I don't just build websites; I build workflows.
+<p align="center">
+I don’t just build websites — I build <strong>revenue systems</strong>.
+</p>
 
----
+<p align="center">
+I help eCommerce brands and online businesses turn traffic into paying customers through
+<br><br>
+⚡ High-converting landing pages <br>
+🔄 Sales funnels (Lead → Nurture → Close) <br>
+🤖 CRM & workflow automation <br>
+🚀 Performance-optimized full stack systems
+</p>
 
-## 🛠️ Technical Arsenal
+<hr>
 
-| **Frontend & Design** | **Backend & Database** | **Current Evolution ⚡** |
-| :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | **Full Stack JavaScript** |
-| ![JS](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | **MERN Stack Migration** |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | **Scalable API Design** |
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) | **Micro-SaaS Architecture** |
+<h2>💰 What I Specialize In</h2>
 
----
+<h3>🛍 eCommerce Landing Pages</h3>
+<ul>
+  <li>Product pages</li>
+  <li>Sales pages</li>
+  <li>Pre-landers</li>
+  <li>Upsell / Downsell flows</li>
+  <li>Mobile-first responsive builds</li>
+</ul>
 
-## 🚀 Featured Projects
+<h3>🔄 Funnel Architecture</h3>
+<ul>
+  <li>Funnel mapping & strategy</li>
+  <li>Lead capture systems</li>
+  <li>Email/SMS automation flows</li>
+  <li>Checkout optimization</li>
+  <li>Tracking & analytics integration</li>
+</ul>
 
-### **PesoWais — Full Stack Financial Intelligence App**
-*A comprehensive budgeting solution transitioning from PHP to a modern React & Node.js architecture.*
-* **Tech:** React, Node.js, MySQL, Tailwind CSS, Gemini API.
-* **Engineering Focus:** * **State-Driven UI:** Using React Hooks for real-time budget tracking and seamless expense entry without page reloads.
-  * **Relational Integrity:** Architected a MySQL schema with strict Foreign Key constraints to ensure 100% data accuracy across user accounts.
-  * **AI Integration:** Developed Node.js middleware for **WaisBot**, leveraging the Gemini API to analyze spending patterns and generate automated financial coaching.
+<h3>⚙️ Automation & Backend Systems</h3>
+<ul>
+  <li>CRM setup & workflows</li>
+  <li>Custom API integrations</li>
+  <li>Database architecture</li>
+  <li>Performance optimization (speed + structure)</li>
+</ul>
 
-### **NetGate — Network Automation Tool**
-*A specialized solution for automating WiFi voucher generation for local business infrastructure.*
-* **Tech:** Node.js, PHP, MikroTik API, SQL.
-* **Problem Solved:** Reduced manual overhead by 90% by automating credential generation and monitoring through a custom web-based dashboard.
+<hr>
 
----
+<h2>🛠 Tech Stack</h2>
 
-## 💼 Professional Experience
-* **Landing Page & Funnel Builder (6 Months):** Engineered high-conversion sales funnels, focusing on performance optimization and mobile-first responsive design.
-* **Full Stack Development:** Currently evolving a legacy PHP/SQL foundation into a modern **Node/React** ecosystem to support high-concurrency, real-time applications.
+<h3>Frontend</h3>
+<p>React • JavaScript • Tailwind CSS • HTML/CSS • Figma</p>
 
----
+<h3>Backend</h3>
+<p>Node.js • PHP • MySQL • REST APIs</p>
 
-## 📫 Let's Connect
+<h3>Page Builders & Systems</h3>
+<p>Gempages • PageFly • Webflow • Funnel Builders • CRM Automation Systems</p>
 
-| | |
-| :--- | :--- |
-| 🌐 **Portfolio** | [andrew-devx.vercel.app](https://andrew-devx.vercel.app/) |
-| 💼 **LinkedIn** | [charles-andrew-taripe](https://www.linkedin.com/in/charles-andrew-taripe-64ab8937a/) |
-| 📧 **Email** | [charlesandrewtaripe@gmail.com](mailto:charlesandrewtaripe@gmail.com) |
-| 📱 **Phone** | [+63 992 403 8118](tel:+639924038118) |
+<hr>
 
-<br>
+<h2>🚀 Featured Projects</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charles-andrew-taripe-64ab8937a/) 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:charlesandrewtaripe@gmail.com)
-[![Website](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://andrew-devx.vercel.app/)
+<h3>💸 PesoWais — Financial Intelligence App</h3>
+<p>
+Full stack budgeting system built with React & Node.js.
+</p>
 
----
+<ul>
+  <li>State-driven UI for real-time tracking</li>
+  <li>Optimized relational database structure</li>
+  <li>AI-powered assistant integration</li>
+  <li>Built for scalability & performance</li>
+</ul>
+
+<h3>🌐 NetGate — Network Automation Dashboard</h3>
+<p>
+Automated WiFi voucher generation system.
+</p>
+
+<ul>
+  <li>Reduced manual workload by 90%</li>
+  <li>Custom web-based automation dashboard</li>
+  <li>Integrated external APIs with SQL backend</li>
+</ul>
+
+<hr>
+
+<h2>📈 My Development Philosophy</h2>
+
+<ul>
+  <li>Convert visitors into leads</li>
+  <li>Reduce manual work through automation</li>
+  <li>Prioritize performance (speed affects conversions)</li>
+  <li>Build scalable systems that grow with traffic</li>
+</ul>
+
+<p>
+Your landing page shouldn’t just look good — it should <strong>increase revenue.</strong>
+</p>
+
+<hr>
+
+<h2>💼 Experience</h2>
+
+<p><strong>Landing Page & Funnel Builder (6+ Months)</strong></p>
+<ul>
+  <li>Built high-converting landing pages</li>
+  <li>Optimized for speed & mobile performance</li>
+  <li>Structured funnels to improve lead quality</li>
+  <li>Automated follow-ups via CRM workflows</li>
+</ul>
+
+<p><strong>Full Stack Development</strong></p>
+<ul>
+  <li>Migrating legacy PHP systems to modern Node/React architecture</li>
+  <li>Designing scalable APIs</li>
+  <li>Building automation-first systems</li>
+</ul>
+
+<hr>
+
+<h2>📫 Let’s Connect</h2>
+
+<p>
+🌐 Portfolio: <a href="https://andrew-devx.vercel.app">andrew-devx.vercel.app</a><br>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/charles-andrew-taripe-64ab8937a/">Charles Andrew Taripe</a><br>
+📧 Email: <a href="mailto:charlesandrewtaripe@gmail.com">charlesandrewtaripe@gmail.com</a><br>
+📱 Phone: +63 992 403 8118
+</p>
+
+<hr>
+
+<p align="center">
+<strong>🚀 Open to remote eCommerce & funnel development opportunities.</strong>
+</p>
